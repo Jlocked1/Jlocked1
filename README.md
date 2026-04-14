@@ -1,6 +1,6 @@
 <div>
 
-# Olá, eu sou o Jean Luca! 👋
+# Olá, eu sou Jean Luca! 👋
 ### Java Backend Developer em formação ☕
 
 </div>
